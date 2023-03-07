@@ -1,0 +1,9 @@
+*.venv*
+*.env*
+*venv*
+*env*
+
+*cache*
+*.vscode*
+
+ACTUALIZACION*

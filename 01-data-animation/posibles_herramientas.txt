@@ -1,0 +1,9 @@
+ImageMagick 
+https://imagemagick.org/index.php
+
+Info:
+https://wiki.python.org/moin/ImageMagick#:~:text=PythonMagick%20is%20the%20Python%20binding,a%20large%20variety%20of%20formats.
+
+Download link:
+http://www.imagemagick.org/download/python/
+
